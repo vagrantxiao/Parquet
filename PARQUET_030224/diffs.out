@@ -1,0 +1,60 @@
+11c11
+< Final Area: 1.35916e+06 WhiteSpace 14.9146% AR 0.686567 HPWL 136326
+---
+> Final Area: 1.35191e+06 WhiteSpace 14.4581% AR 0.870787 HPWL 140839
+14,16c14,16
+< Average Area: 1.35916e+06 Minimum Area: 1.35916e+06
+< Average HPWL: 136326 Minimum HPWL: 136326
+< Average WhiteSpace: 14.9146% Minimum WhiteSpace: 14.9146%
+---
+> Average Area: 1.35191e+06 Minimum Area: 1.35191e+06
+> Average HPWL: 140839 Minimum HPWL: 140839
+> Average WhiteSpace: 14.4581% Minimum WhiteSpace: 14.4581%
+27c27
+< Final Area: 3.92443e+07 WhiteSpace 9.68006% AR 1.02489 HPWL 1.92984e+06
+---
+> Final Area: 3.96694e+07 WhiteSpace 10.648% AR 0.763107 HPWL 1.76903e+06
+30,32c30,32
+< Average Area: 3.92443e+07 Minimum Area: 3.92443e+07
+< Average HPWL: 1.92984e+06 Minimum HPWL: 1.92984e+06
+< Average WhiteSpace: 9.68006% Minimum WhiteSpace: 9.68006%
+---
+> Average Area: 3.96694e+07 Minimum Area: 3.96694e+07
+> Average HPWL: 1.76903e+06 Minimum HPWL: 1.76903e+06
+> Average WhiteSpace: 10.648% Minimum WhiteSpace: 10.648%
+43c43
+< Final Area: 5.18146e+07 WhiteSpace 10.138% AR 0.581691 HPWL 917346
+---
+> Final Area: 4.75606e+07 WhiteSpace 2.10043% AR 1.8888 HPWL 914535
+46,48c46,48
+< Average Area: 5.18146e+07 Minimum Area: 5.18146e+07
+< Average HPWL: 917346 Minimum HPWL: 917346
+< Average WhiteSpace: 10.138% Minimum WhiteSpace: 10.138%
+---
+> Average Area: 4.75606e+07 Minimum Area: 4.75606e+07
+> Average HPWL: 914535 Minimum HPWL: 914535
+> Average WhiteSpace: 2.10043% Minimum WhiteSpace: 2.10043%
+59c59
+< Final Area: 2.02692e+07 WhiteSpace 4.53347% AR 2.97319 HPWL 1.0156e+06
+---
+> Final Area: 2.07241e+07 WhiteSpace 6.62884% AR 0.768194 HPWL 722480
+62,64c62,64
+< Average Area: 2.02692e+07 Minimum Area: 2.02692e+07
+< Average HPWL: 1.0156e+06 Minimum HPWL: 1.0156e+06
+< Average WhiteSpace: 4.53347% Minimum WhiteSpace: 4.53347%
+---
+> Average Area: 2.07241e+07 Minimum Area: 2.07241e+07
+> Average HPWL: 722480 Minimum HPWL: 722480
+> Average WhiteSpace: 6.62884% Minimum WhiteSpace: 6.62884%
+75c75
+< Final Area: 1.28129e+07 WhiteSpace 31.0806% AR 0.851986 HPWL 352586
+---
+> Final Area: 9.69318e+06 WhiteSpace 8.899% AR 0.22293 HPWL 406587
+78,80c78,80
+< Average Area: 1.28129e+07 Minimum Area: 1.28129e+07
+< Average HPWL: 352586 Minimum HPWL: 352586
+< Average WhiteSpace: 31.0806% Minimum WhiteSpace: 31.0806%
+---
+> Average Area: 9.69318e+06 Minimum Area: 9.69318e+06
+> Average HPWL: 406587 Minimum HPWL: 406587
+> Average WhiteSpace: 8.899% Minimum WhiteSpace: 8.899%
